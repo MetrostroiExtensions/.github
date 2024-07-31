@@ -1,6 +1,10 @@
-<h1 align="center">
-Making Metrostroi look nice (again)
-</h1>
+<p>
+  <img height="256px" src="/discord_logo.png">
+  <span align="right">
+<h1>Making Metrostroi look nice (again)</h1>
+  </span>
+</p>
+
 
 ## Checkout our work at:
 * [MetroPack Discord](https://discord.gg/UybbMjmB)
